@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\PizzaApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2259A868-B82A-4AF8-9D22-023D3E69E1A0}|PizzaApp\\PizzaApp.csproj|c:\\users\\blero\\not onedrive\\vizuelno\\pizzaapp\\pizzaapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2259A868-B82A-4AF8-9D22-023D3E69E1A0}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 188,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\PizzaApp\\PizzaApp\\Form1.cs",
+              "RelativeDocumentMoniker": "PizzaApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\PizzaApp\\PizzaApp\\Form1.cs [Design]",
+              "RelativeToolTip": "PizzaApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T14:43:11.629Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

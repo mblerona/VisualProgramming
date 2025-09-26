@@ -1,0 +1,11 @@
+C:\Users\blero\Not OneDrive\vizuelno\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.exe.config
+C:\Users\blero\Not OneDrive\vizuelno\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.exe
+C:\Users\blero\Not OneDrive\vizuelno\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.pdb
+C:\Users\blero\Not OneDrive\vizuelno\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.csproj.AssemblyReference.cache
+C:\Users\blero\Not OneDrive\vizuelno\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.Form1.resources
+C:\Users\blero\Not OneDrive\vizuelno\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.NewProduct.resources
+C:\Users\blero\Not OneDrive\vizuelno\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.Properties.Resources.resources
+C:\Users\blero\Not OneDrive\vizuelno\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.csproj.GenerateResource.cache
+C:\Users\blero\Not OneDrive\vizuelno\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\blero\Not OneDrive\vizuelno\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.exe
+C:\Users\blero\Not OneDrive\vizuelno\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.pdb

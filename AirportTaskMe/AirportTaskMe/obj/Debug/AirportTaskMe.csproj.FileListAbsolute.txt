@@ -1,0 +1,12 @@
+C:\Users\blero\Not OneDrive\vizuelno\AirportTaskMe\AirportTaskMe\bin\Debug\AirportTaskMe.exe.config
+C:\Users\blero\Not OneDrive\vizuelno\AirportTaskMe\AirportTaskMe\bin\Debug\AirportTaskMe.exe
+C:\Users\blero\Not OneDrive\vizuelno\AirportTaskMe\AirportTaskMe\bin\Debug\AirportTaskMe.pdb
+C:\Users\blero\Not OneDrive\vizuelno\AirportTaskMe\AirportTaskMe\obj\Debug\AirportTaskMe.csproj.AssemblyReference.cache
+C:\Users\blero\Not OneDrive\vizuelno\AirportTaskMe\AirportTaskMe\obj\Debug\AirportTaskMe.AirportForm.resources
+C:\Users\blero\Not OneDrive\vizuelno\AirportTaskMe\AirportTaskMe\obj\Debug\AirportTaskMe.DestinationForm.resources
+C:\Users\blero\Not OneDrive\vizuelno\AirportTaskMe\AirportTaskMe\obj\Debug\AirportTaskMe.Form1.resources
+C:\Users\blero\Not OneDrive\vizuelno\AirportTaskMe\AirportTaskMe\obj\Debug\AirportTaskMe.Properties.Resources.resources
+C:\Users\blero\Not OneDrive\vizuelno\AirportTaskMe\AirportTaskMe\obj\Debug\AirportTaskMe.csproj.GenerateResource.cache
+C:\Users\blero\Not OneDrive\vizuelno\AirportTaskMe\AirportTaskMe\obj\Debug\AirportTaskMe.csproj.CoreCompileInputs.cache
+C:\Users\blero\Not OneDrive\vizuelno\AirportTaskMe\AirportTaskMe\obj\Debug\AirportTaskMe.exe
+C:\Users\blero\Not OneDrive\vizuelno\AirportTaskMe\AirportTaskMe\obj\Debug\AirportTaskMe.pdb

@@ -1,0 +1,10 @@
+C:\Users\blero\Not OneDrive\vizuelno\DrawLines\DrawLines\bin\Debug\DrawLines.exe.config
+C:\Users\blero\Not OneDrive\vizuelno\DrawLines\DrawLines\bin\Debug\DrawLines.exe
+C:\Users\blero\Not OneDrive\vizuelno\DrawLines\DrawLines\bin\Debug\DrawLines.pdb
+C:\Users\blero\Not OneDrive\vizuelno\DrawLines\DrawLines\obj\Debug\DrawLines.csproj.AssemblyReference.cache
+C:\Users\blero\Not OneDrive\vizuelno\DrawLines\DrawLines\obj\Debug\DrawLines.Form1.resources
+C:\Users\blero\Not OneDrive\vizuelno\DrawLines\DrawLines\obj\Debug\DrawLines.Properties.Resources.resources
+C:\Users\blero\Not OneDrive\vizuelno\DrawLines\DrawLines\obj\Debug\DrawLines.csproj.GenerateResource.cache
+C:\Users\blero\Not OneDrive\vizuelno\DrawLines\DrawLines\obj\Debug\DrawLines.csproj.CoreCompileInputs.cache
+C:\Users\blero\Not OneDrive\vizuelno\DrawLines\DrawLines\obj\Debug\DrawLines.exe
+C:\Users\blero\Not OneDrive\vizuelno\DrawLines\DrawLines\obj\Debug\DrawLines.pdb

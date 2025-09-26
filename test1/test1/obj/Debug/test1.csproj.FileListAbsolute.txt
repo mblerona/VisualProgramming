@@ -1,0 +1,11 @@
+C:\Users\blero\Not OneDrive\vizuelno\test1\test1\bin\Debug\test1.exe.config
+C:\Users\blero\Not OneDrive\vizuelno\test1\test1\bin\Debug\test1.exe
+C:\Users\blero\Not OneDrive\vizuelno\test1\test1\bin\Debug\test1.pdb
+C:\Users\blero\Not OneDrive\vizuelno\test1\test1\obj\Debug\test1.csproj.AssemblyReference.cache
+C:\Users\blero\Not OneDrive\vizuelno\test1\test1\obj\Debug\test1.Form1.resources
+C:\Users\blero\Not OneDrive\vizuelno\test1\test1\obj\Debug\test1.Properties.Resources.resources
+C:\Users\blero\Not OneDrive\vizuelno\test1\test1\obj\Debug\test1.csproj.GenerateResource.cache
+C:\Users\blero\Not OneDrive\vizuelno\test1\test1\obj\Debug\test1.csproj.CoreCompileInputs.cache
+C:\Users\blero\Not OneDrive\vizuelno\test1\test1\obj\Debug\test1.exe
+C:\Users\blero\Not OneDrive\vizuelno\test1\test1\obj\Debug\test1.pdb
+C:\Users\blero\Not OneDrive\vizuelno\test1\test1\obj\Debug\test1.TeamForm.resources

@@ -1,0 +1,10 @@
+C:\Users\blero\Not OneDrive\vizuelno\DrawRectangles\DrawRectangles\bin\Debug\DrawRectangles.exe.config
+C:\Users\blero\Not OneDrive\vizuelno\DrawRectangles\DrawRectangles\bin\Debug\DrawRectangles.exe
+C:\Users\blero\Not OneDrive\vizuelno\DrawRectangles\DrawRectangles\bin\Debug\DrawRectangles.pdb
+C:\Users\blero\Not OneDrive\vizuelno\DrawRectangles\DrawRectangles\obj\Debug\DrawRectangles.csproj.AssemblyReference.cache
+C:\Users\blero\Not OneDrive\vizuelno\DrawRectangles\DrawRectangles\obj\Debug\DrawRectangles.Form1.resources
+C:\Users\blero\Not OneDrive\vizuelno\DrawRectangles\DrawRectangles\obj\Debug\DrawRectangles.Properties.Resources.resources
+C:\Users\blero\Not OneDrive\vizuelno\DrawRectangles\DrawRectangles\obj\Debug\DrawRectangles.csproj.GenerateResource.cache
+C:\Users\blero\Not OneDrive\vizuelno\DrawRectangles\DrawRectangles\obj\Debug\DrawRectangles.csproj.CoreCompileInputs.cache
+C:\Users\blero\Not OneDrive\vizuelno\DrawRectangles\DrawRectangles\obj\Debug\DrawRectangles.exe
+C:\Users\blero\Not OneDrive\vizuelno\DrawRectangles\DrawRectangles\obj\Debug\DrawRectangles.pdb

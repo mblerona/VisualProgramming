@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\AirportTaskMe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDC8752-BB4E-4055-80AD-CD5BC77BE637}|AirportTaskMe\\AirportTaskMe.csproj|c:\\users\\blero\\not onedrive\\vizuelno\\airporttaskme\\airporttaskme\\airportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DDC8752-BB4E-4055-80AD-CD5BC77BE637}|AirportTaskMe\\AirportTaskMe.csproj|solutionrelative:airporttaskme\\airportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDC8752-BB4E-4055-80AD-CD5BC77BE637}|AirportTaskMe\\AirportTaskMe.csproj|C:\\Users\\blero\\Not OneDrive\\vizuelno\\AirportTaskMe\\airporttaskme\\destinationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DDC8752-BB4E-4055-80AD-CD5BC77BE637}|AirportTaskMe\\AirportTaskMe.csproj|solutionrelative:airporttaskme\\destinationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDC8752-BB4E-4055-80AD-CD5BC77BE637}|AirportTaskMe\\AirportTaskMe.csproj|C:\\Users\\blero\\Not OneDrive\\vizuelno\\AirportTaskMe\\airporttaskme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DDC8752-BB4E-4055-80AD-CD5BC77BE637}|AirportTaskMe\\AirportTaskMe.csproj|solutionrelative:airporttaskme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDC8752-BB4E-4055-80AD-CD5BC77BE637}|AirportTaskMe\\AirportTaskMe.csproj|C:\\Users\\blero\\Not OneDrive\\vizuelno\\AirportTaskMe\\airporttaskme\\airportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8DDC8752-BB4E-4055-80AD-CD5BC77BE637}|AirportTaskMe\\AirportTaskMe.csproj|solutionrelative:airporttaskme\\airportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDC8752-BB4E-4055-80AD-CD5BC77BE637}|AirportTaskMe\\AirportTaskMe.csproj|C:\\Users\\blero\\Not OneDrive\\vizuelno\\AirportTaskMe\\airporttaskme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8DDC8752-BB4E-4055-80AD-CD5BC77BE637}|AirportTaskMe\\AirportTaskMe.csproj|solutionrelative:airporttaskme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDC8752-BB4E-4055-80AD-CD5BC77BE637}|AirportTaskMe\\AirportTaskMe.csproj|C:\\Users\\blero\\Not OneDrive\\vizuelno\\AirportTaskMe\\airporttaskme\\airport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DDC8752-BB4E-4055-80AD-CD5BC77BE637}|AirportTaskMe\\AirportTaskMe.csproj|solutionrelative:airporttaskme\\airport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDC8752-BB4E-4055-80AD-CD5BC77BE637}|AirportTaskMe\\AirportTaskMe.csproj|C:\\Users\\blero\\Not OneDrive\\vizuelno\\AirportTaskMe\\airporttaskme\\destinationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8DDC8752-BB4E-4055-80AD-CD5BC77BE637}|AirportTaskMe\\AirportTaskMe.csproj|solutionrelative:airporttaskme\\destinationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDC8752-BB4E-4055-80AD-CD5BC77BE637}|AirportTaskMe\\AirportTaskMe.csproj|C:\\Users\\blero\\Not OneDrive\\vizuelno\\AirportTaskMe\\airporttaskme\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DDC8752-BB4E-4055-80AD-CD5BC77BE637}|AirportTaskMe\\AirportTaskMe.csproj|solutionrelative:airporttaskme\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDC8752-BB4E-4055-80AD-CD5BC77BE637}|AirportTaskMe\\AirportTaskMe.csproj|C:\\Users\\blero\\Not OneDrive\\vizuelno\\AirportTaskMe\\airporttaskme\\destinationform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{8DDC8752-BB4E-4055-80AD-CD5BC77BE637}|AirportTaskMe\\AirportTaskMe.csproj|solutionrelative:airporttaskme\\destinationform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDC8752-BB4E-4055-80AD-CD5BC77BE637}|AirportTaskMe\\AirportTaskMe.csproj|C:\\Users\\blero\\Not OneDrive\\vizuelno\\AirportTaskMe\\airporttaskme\\destinationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DDC8752-BB4E-4055-80AD-CD5BC77BE637}|AirportTaskMe\\AirportTaskMe.csproj|solutionrelative:airporttaskme\\destinationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 188,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DestinationForm.resx",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\AirportTaskMe\\AirportTaskMe\\DestinationForm.resx",
+              "RelativeDocumentMoniker": "AirportTaskMe\\DestinationForm.resx",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\AirportTaskMe\\AirportTaskMe\\DestinationForm.resx",
+              "RelativeToolTip": "AirportTaskMe\\DestinationForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-08-15T15:35:23.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DestinationForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\AirportTaskMe\\AirportTaskMe\\DestinationForm.Designer.cs",
+              "RelativeDocumentMoniker": "AirportTaskMe\\DestinationForm.Designer.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\AirportTaskMe\\AirportTaskMe\\DestinationForm.Designer.cs",
+              "RelativeToolTip": "AirportTaskMe\\DestinationForm.Designer.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA0wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T15:35:20.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DestinationForm.cs",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\AirportTaskMe\\AirportTaskMe\\DestinationForm.cs",
+              "RelativeDocumentMoniker": "AirportTaskMe\\DestinationForm.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\AirportTaskMe\\AirportTaskMe\\DestinationForm.cs",
+              "RelativeToolTip": "AirportTaskMe\\DestinationForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T13:10:03.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\AirportTaskMe\\AirportTaskMe\\Form1.cs",
+              "RelativeDocumentMoniker": "AirportTaskMe\\Form1.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\AirportTaskMe\\AirportTaskMe\\Form1.cs",
+              "RelativeToolTip": "AirportTaskMe\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T12:43:36.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AirportForm.cs",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\AirportTaskMe\\AirportTaskMe\\AirportForm.cs",
+              "RelativeDocumentMoniker": "AirportTaskMe\\AirportForm.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\AirportTaskMe\\AirportTaskMe\\AirportForm.cs",
+              "RelativeToolTip": "AirportTaskMe\\AirportForm.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAYwGAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T12:38:25.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Airport.cs",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\AirportTaskMe\\AirportTaskMe\\Airport.cs",
+              "RelativeDocumentMoniker": "AirportTaskMe\\Airport.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\AirportTaskMe\\AirportTaskMe\\Airport.cs",
+              "RelativeToolTip": "AirportTaskMe\\Airport.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T12:27:25.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Destination.cs",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\AirportTaskMe\\AirportTaskMe\\Destination.cs",
+              "RelativeDocumentMoniker": "AirportTaskMe\\Destination.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\AirportTaskMe\\AirportTaskMe\\Destination.cs",
+              "RelativeToolTip": "AirportTaskMe\\Destination.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T12:25:23.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DestinationForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\AirportTaskMe\\AirportTaskMe\\DestinationForm.cs",
+              "RelativeDocumentMoniker": "AirportTaskMe\\DestinationForm.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\AirportTaskMe\\AirportTaskMe\\DestinationForm.cs [Design]",
+              "RelativeToolTip": "AirportTaskMe\\DestinationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T12:52:20.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AirportForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\AirportTaskMe\\AirportTaskMe\\AirportForm.cs",
+              "RelativeDocumentMoniker": "AirportTaskMe\\AirportForm.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\AirportTaskMe\\AirportTaskMe\\AirportForm.cs [Design]",
+              "RelativeToolTip": "AirportTaskMe\\AirportForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T12:49:33.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\AirportTaskMe\\AirportTaskMe\\Form1.cs",
+              "RelativeDocumentMoniker": "AirportTaskMe\\Form1.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\AirportTaskMe\\AirportTaskMe\\Form1.cs [Design]",
+              "RelativeToolTip": "AirportTaskMe\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T12:43:52.282Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

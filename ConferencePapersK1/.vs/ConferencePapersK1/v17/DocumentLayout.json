@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\ConferencePapersK1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57DF73DF-6A9D-44BB-BACC-BE3026C4C5A1}|ConferencePapersK1\\ConferencePapersK1.csproj|c:\\users\\blero\\not onedrive\\vizuelno\\conferencepapersk1\\conferencepapersk1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DF73DF-6A9D-44BB-BACC-BE3026C4C5A1}|ConferencePapersK1\\ConferencePapersK1.csproj|solutionrelative:conferencepapersk1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DF73DF-6A9D-44BB-BACC-BE3026C4C5A1}|ConferencePapersK1\\ConferencePapersK1.csproj|C:\\Users\\blero\\Not OneDrive\\vizuelno\\ConferencePapersK1\\conferencepapersk1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57DF73DF-6A9D-44BB-BACC-BE3026C4C5A1}|ConferencePapersK1\\ConferencePapersK1.csproj|solutionrelative:conferencepapersk1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DF73DF-6A9D-44BB-BACC-BE3026C4C5A1}|ConferencePapersK1\\ConferencePapersK1.csproj|C:\\Users\\blero\\Not OneDrive\\vizuelno\\ConferencePapersK1\\conferencepapersk1\\newconference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57DF73DF-6A9D-44BB-BACC-BE3026C4C5A1}|ConferencePapersK1\\ConferencePapersK1.csproj|solutionrelative:conferencepapersk1\\newconference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DF73DF-6A9D-44BB-BACC-BE3026C4C5A1}|ConferencePapersK1\\ConferencePapersK1.csproj|C:\\Users\\blero\\Not OneDrive\\vizuelno\\ConferencePapersK1\\conferencepapersk1\\conference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DF73DF-6A9D-44BB-BACC-BE3026C4C5A1}|ConferencePapersK1\\ConferencePapersK1.csproj|solutionrelative:conferencepapersk1\\conference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DF73DF-6A9D-44BB-BACC-BE3026C4C5A1}|ConferencePapersK1\\ConferencePapersK1.csproj|C:\\Users\\blero\\Not OneDrive\\vizuelno\\ConferencePapersK1\\conferencepapersk1\\newconference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DF73DF-6A9D-44BB-BACC-BE3026C4C5A1}|ConferencePapersK1\\ConferencePapersK1.csproj|solutionrelative:conferencepapersk1\\newconference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 188,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\ConferencePapersK1\\ConferencePapersK1\\Form1.cs",
+              "RelativeDocumentMoniker": "ConferencePapersK1\\Form1.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\ConferencePapersK1\\ConferencePapersK1\\Form1.cs",
+              "RelativeToolTip": "ConferencePapersK1\\Form1.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAkwCEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T10:05:41.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conference.cs",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\ConferencePapersK1\\ConferencePapersK1\\Conference.cs",
+              "RelativeDocumentMoniker": "ConferencePapersK1\\Conference.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\ConferencePapersK1\\ConferencePapersK1\\Conference.cs",
+              "RelativeToolTip": "ConferencePapersK1\\Conference.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T09:59:23.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewConference.cs",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\ConferencePapersK1\\ConferencePapersK1\\NewConference.cs",
+              "RelativeDocumentMoniker": "ConferencePapersK1\\NewConference.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\ConferencePapersK1\\ConferencePapersK1\\NewConference.cs",
+              "RelativeToolTip": "ConferencePapersK1\\NewConference.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAApwDYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T09:59:06.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewConference.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\ConferencePapersK1\\ConferencePapersK1\\NewConference.cs",
+              "RelativeDocumentMoniker": "ConferencePapersK1\\NewConference.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\ConferencePapersK1\\ConferencePapersK1\\NewConference.cs [Design]",
+              "RelativeToolTip": "ConferencePapersK1\\NewConference.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T09:55:25.78Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\ConferencePapersK1\\ConferencePapersK1\\Form1.cs",
+              "RelativeDocumentMoniker": "ConferencePapersK1\\Form1.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\ConferencePapersK1\\ConferencePapersK1\\Form1.cs [Design]",
+              "RelativeToolTip": "ConferencePapersK1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T09:47:23.521Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

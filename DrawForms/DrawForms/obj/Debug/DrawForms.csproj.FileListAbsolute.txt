@@ -1,0 +1,10 @@
+C:\Users\blero\Not OneDrive\vizuelno\DrawForms\DrawForms\bin\Debug\DrawForms.exe.config
+C:\Users\blero\Not OneDrive\vizuelno\DrawForms\DrawForms\bin\Debug\DrawForms.exe
+C:\Users\blero\Not OneDrive\vizuelno\DrawForms\DrawForms\bin\Debug\DrawForms.pdb
+C:\Users\blero\Not OneDrive\vizuelno\DrawForms\DrawForms\obj\Debug\DrawForms.csproj.AssemblyReference.cache
+C:\Users\blero\Not OneDrive\vizuelno\DrawForms\DrawForms\obj\Debug\DrawForms.Form1.resources
+C:\Users\blero\Not OneDrive\vizuelno\DrawForms\DrawForms\obj\Debug\DrawForms.Properties.Resources.resources
+C:\Users\blero\Not OneDrive\vizuelno\DrawForms\DrawForms\obj\Debug\DrawForms.csproj.GenerateResource.cache
+C:\Users\blero\Not OneDrive\vizuelno\DrawForms\DrawForms\obj\Debug\DrawForms.csproj.CoreCompileInputs.cache
+C:\Users\blero\Not OneDrive\vizuelno\DrawForms\DrawForms\obj\Debug\DrawForms.exe
+C:\Users\blero\Not OneDrive\vizuelno\DrawForms\DrawForms\obj\Debug\DrawForms.pdb

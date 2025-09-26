@@ -1,0 +1,11 @@
+C:\Users\blero\Not OneDrive\vizuelno\CashAccountK1\CashAccountK1\bin\Debug\CashAccountK1.exe.config
+C:\Users\blero\Not OneDrive\vizuelno\CashAccountK1\CashAccountK1\bin\Debug\CashAccountK1.exe
+C:\Users\blero\Not OneDrive\vizuelno\CashAccountK1\CashAccountK1\bin\Debug\CashAccountK1.pdb
+C:\Users\blero\Not OneDrive\vizuelno\CashAccountK1\CashAccountK1\obj\Debug\CashAccountK1.csproj.AssemblyReference.cache
+C:\Users\blero\Not OneDrive\vizuelno\CashAccountK1\CashAccountK1\obj\Debug\CashAccountK1.Form1.resources
+C:\Users\blero\Not OneDrive\vizuelno\CashAccountK1\CashAccountK1\obj\Debug\CashAccountK1.NewProduct.resources
+C:\Users\blero\Not OneDrive\vizuelno\CashAccountK1\CashAccountK1\obj\Debug\CashAccountK1.Properties.Resources.resources
+C:\Users\blero\Not OneDrive\vizuelno\CashAccountK1\CashAccountK1\obj\Debug\CashAccountK1.csproj.GenerateResource.cache
+C:\Users\blero\Not OneDrive\vizuelno\CashAccountK1\CashAccountK1\obj\Debug\CashAccountK1.csproj.CoreCompileInputs.cache
+C:\Users\blero\Not OneDrive\vizuelno\CashAccountK1\CashAccountK1\obj\Debug\CashAccountK1.exe
+C:\Users\blero\Not OneDrive\vizuelno\CashAccountK1\CashAccountK1\obj\Debug\CashAccountK1.pdb

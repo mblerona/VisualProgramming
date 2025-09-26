@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\BallsInHoles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CE0AF8-EF22-47D3-A612-9128077F73CD}|BallsInHoles\\BallsInHoles.csproj|C:\\Users\\blero\\Not OneDrive\\vizuelno\\BallsInHoles\\ballsinholes\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CE0AF8-EF22-47D3-A612-9128077F73CD}|BallsInHoles\\BallsInHoles.csproj|solutionrelative:ballsinholes\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CE0AF8-EF22-47D3-A612-9128077F73CD}|BallsInHoles\\BallsInHoles.csproj|c:\\users\\blero\\not onedrive\\vizuelno\\ballsinholes\\ballsinholes\\hole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CE0AF8-EF22-47D3-A612-9128077F73CD}|BallsInHoles\\BallsInHoles.csproj|solutionrelative:ballsinholes\\hole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CE0AF8-EF22-47D3-A612-9128077F73CD}|BallsInHoles\\BallsInHoles.csproj|C:\\Users\\blero\\Not OneDrive\\vizuelno\\BallsInHoles\\ballsinholes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CE0AF8-EF22-47D3-A612-9128077F73CD}|BallsInHoles\\BallsInHoles.csproj|solutionrelative:ballsinholes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CE0AF8-EF22-47D3-A612-9128077F73CD}|BallsInHoles\\BallsInHoles.csproj|C:\\Users\\blero\\Not OneDrive\\vizuelno\\BallsInHoles\\ballsinholes\\ballsdoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CE0AF8-EF22-47D3-A612-9128077F73CD}|BallsInHoles\\BallsInHoles.csproj|solutionrelative:ballsinholes\\ballsdoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CE0AF8-EF22-47D3-A612-9128077F73CD}|BallsInHoles\\BallsInHoles.csproj|C:\\Users\\blero\\Not OneDrive\\vizuelno\\BallsInHoles\\ballsinholes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8CE0AF8-EF22-47D3-A612-9128077F73CD}|BallsInHoles\\BallsInHoles.csproj|solutionrelative:ballsinholes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 188,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\BallsInHoles\\BallsInHoles\\Form1.cs",
+              "RelativeDocumentMoniker": "BallsInHoles\\Form1.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\BallsInHoles\\BallsInHoles\\Form1.cs",
+              "RelativeToolTip": "BallsInHoles\\Form1.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAkwKcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T20:17:42.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BallsDoc.cs",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\BallsInHoles\\BallsInHoles\\BallsDoc.cs",
+              "RelativeDocumentMoniker": "BallsInHoles\\BallsDoc.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\BallsInHoles\\BallsInHoles\\BallsDoc.cs",
+              "RelativeToolTip": "BallsInHoles\\BallsDoc.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAUwF8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T20:17:03.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hole.cs",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\BallsInHoles\\BallsInHoles\\Hole.cs",
+              "RelativeDocumentMoniker": "BallsInHoles\\Hole.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\BallsInHoles\\BallsInHoles\\Hole.cs",
+              "RelativeToolTip": "BallsInHoles\\Hole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T20:16:31.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\BallsInHoles\\BallsInHoles\\Ball.cs",
+              "RelativeDocumentMoniker": "BallsInHoles\\Ball.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\BallsInHoles\\BallsInHoles\\Ball.cs",
+              "RelativeToolTip": "BallsInHoles\\Ball.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAUwB8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T20:16:08.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\BallsInHoles\\BallsInHoles\\Form1.cs",
+              "RelativeDocumentMoniker": "BallsInHoles\\Form1.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\BallsInHoles\\BallsInHoles\\Form1.cs [Design]",
+              "RelativeToolTip": "BallsInHoles\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T20:15:57.517Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

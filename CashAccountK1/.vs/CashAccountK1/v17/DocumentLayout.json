@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\CashAccountK1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1890D75-33AD-488A-8ABE-65A86B2BF938}|CashAccountK1\\CashAccountK1.csproj|c:\\users\\blero\\not onedrive\\vizuelno\\cashaccountk1\\cashaccountk1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1890D75-33AD-488A-8ABE-65A86B2BF938}|CashAccountK1\\CashAccountK1.csproj|solutionrelative:cashaccountk1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1890D75-33AD-488A-8ABE-65A86B2BF938}|CashAccountK1\\CashAccountK1.csproj|C:\\Users\\blero\\Not OneDrive\\vizuelno\\CashAccountK1\\cashaccountk1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1890D75-33AD-488A-8ABE-65A86B2BF938}|CashAccountK1\\CashAccountK1.csproj|solutionrelative:cashaccountk1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1890D75-33AD-488A-8ABE-65A86B2BF938}|CashAccountK1\\CashAccountK1.csproj|C:\\Users\\blero\\Not OneDrive\\vizuelno\\CashAccountK1\\cashaccountk1\\newproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1890D75-33AD-488A-8ABE-65A86B2BF938}|CashAccountK1\\CashAccountK1.csproj|solutionrelative:cashaccountk1\\newproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1890D75-33AD-488A-8ABE-65A86B2BF938}|CashAccountK1\\CashAccountK1.csproj|C:\\Users\\blero\\Not OneDrive\\vizuelno\\CashAccountK1\\cashaccountk1\\stavka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1890D75-33AD-488A-8ABE-65A86B2BF938}|CashAccountK1\\CashAccountK1.csproj|solutionrelative:cashaccountk1\\stavka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1890D75-33AD-488A-8ABE-65A86B2BF938}|CashAccountK1\\CashAccountK1.csproj|C:\\Users\\blero\\Not OneDrive\\vizuelno\\CashAccountK1\\cashaccountk1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1890D75-33AD-488A-8ABE-65A86B2BF938}|CashAccountK1\\CashAccountK1.csproj|solutionrelative:cashaccountk1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1890D75-33AD-488A-8ABE-65A86B2BF938}|CashAccountK1\\CashAccountK1.csproj|C:\\Users\\blero\\Not OneDrive\\vizuelno\\CashAccountK1\\cashaccountk1\\newproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1890D75-33AD-488A-8ABE-65A86B2BF938}|CashAccountK1\\CashAccountK1.csproj|solutionrelative:cashaccountk1\\newproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 188,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stavka.cs",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\CashAccountK1\\CashAccountK1\\Stavka.cs",
+              "RelativeDocumentMoniker": "CashAccountK1\\Stavka.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\CashAccountK1\\CashAccountK1\\Stavka.cs",
+              "RelativeToolTip": "CashAccountK1\\Stavka.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAWwBoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T14:55:58.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\CashAccountK1\\CashAccountK1\\Product.cs",
+              "RelativeDocumentMoniker": "CashAccountK1\\Product.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\CashAccountK1\\CashAccountK1\\Product.cs",
+              "RelativeToolTip": "CashAccountK1\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T14:41:32.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewProduct.cs",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\CashAccountK1\\CashAccountK1\\NewProduct.cs",
+              "RelativeDocumentMoniker": "CashAccountK1\\NewProduct.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\CashAccountK1\\CashAccountK1\\NewProduct.cs",
+              "RelativeToolTip": "CashAccountK1\\NewProduct.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T14:41:02.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\CashAccountK1\\CashAccountK1\\Form1.cs",
+              "RelativeDocumentMoniker": "CashAccountK1\\Form1.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\CashAccountK1\\CashAccountK1\\Form1.cs",
+              "RelativeToolTip": "CashAccountK1\\Form1.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAwGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T14:40:33.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewProduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\CashAccountK1\\CashAccountK1\\NewProduct.cs",
+              "RelativeDocumentMoniker": "CashAccountK1\\NewProduct.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\CashAccountK1\\CashAccountK1\\NewProduct.cs [Design]",
+              "RelativeToolTip": "CashAccountK1\\NewProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T14:37:01.41Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\CashAccountK1\\CashAccountK1\\Form1.cs",
+              "RelativeDocumentMoniker": "CashAccountK1\\Form1.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\CashAccountK1\\CashAccountK1\\Form1.cs [Design]",
+              "RelativeToolTip": "CashAccountK1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T14:30:45.702Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+C:\Users\blero\Not OneDrive\vizuelno\FlyingBalls\FlyingBalls\bin\Debug\FlyingBalls.exe.config
+C:\Users\blero\Not OneDrive\vizuelno\FlyingBalls\FlyingBalls\bin\Debug\FlyingBalls.exe
+C:\Users\blero\Not OneDrive\vizuelno\FlyingBalls\FlyingBalls\bin\Debug\FlyingBalls.pdb
+C:\Users\blero\Not OneDrive\vizuelno\FlyingBalls\FlyingBalls\obj\Debug\FlyingBalls.csproj.AssemblyReference.cache
+C:\Users\blero\Not OneDrive\vizuelno\FlyingBalls\FlyingBalls\obj\Debug\FlyingBalls.Form1.resources
+C:\Users\blero\Not OneDrive\vizuelno\FlyingBalls\FlyingBalls\obj\Debug\FlyingBalls.Properties.Resources.resources
+C:\Users\blero\Not OneDrive\vizuelno\FlyingBalls\FlyingBalls\obj\Debug\FlyingBalls.csproj.GenerateResource.cache
+C:\Users\blero\Not OneDrive\vizuelno\FlyingBalls\FlyingBalls\obj\Debug\FlyingBalls.csproj.CoreCompileInputs.cache
+C:\Users\blero\Not OneDrive\vizuelno\FlyingBalls\FlyingBalls\obj\Debug\FlyingBalls.exe
+C:\Users\blero\Not OneDrive\vizuelno\FlyingBalls\FlyingBalls\obj\Debug\FlyingBalls.pdb

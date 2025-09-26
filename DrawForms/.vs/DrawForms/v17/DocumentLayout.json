@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\DrawForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CEDA71-FA42-485A-BF87-D38F2144E231}|DrawForms\\DrawForms.csproj|c:\\users\\blero\\not onedrive\\vizuelno\\drawforms\\drawforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CEDA71-FA42-485A-BF87-D38F2144E231}|DrawForms\\DrawForms.csproj|solutionrelative:drawforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CEDA71-FA42-485A-BF87-D38F2144E231}|DrawForms\\DrawForms.csproj|C:\\Users\\blero\\Not OneDrive\\vizuelno\\DrawForms\\drawforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0CEDA71-FA42-485A-BF87-D38F2144E231}|DrawForms\\DrawForms.csproj|solutionrelative:drawforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CEDA71-FA42-485A-BF87-D38F2144E231}|DrawForms\\DrawForms.csproj|C:\\Users\\blero\\Not OneDrive\\vizuelno\\DrawForms\\drawforms\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CEDA71-FA42-485A-BF87-D38F2144E231}|DrawForms\\DrawForms.csproj|solutionrelative:drawforms\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CEDA71-FA42-485A-BF87-D38F2144E231}|DrawForms\\DrawForms.csproj|C:\\Users\\blero\\Not OneDrive\\vizuelno\\DrawForms\\drawforms\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CEDA71-FA42-485A-BF87-D38F2144E231}|DrawForms\\DrawForms.csproj|solutionrelative:drawforms\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CEDA71-FA42-485A-BF87-D38F2144E231}|DrawForms\\DrawForms.csproj|C:\\Users\\blero\\Not OneDrive\\vizuelno\\DrawForms\\drawforms\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CEDA71-FA42-485A-BF87-D38F2144E231}|DrawForms\\DrawForms.csproj|solutionrelative:drawforms\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CEDA71-FA42-485A-BF87-D38F2144E231}|DrawForms\\DrawForms.csproj|C:\\Users\\blero\\Not OneDrive\\vizuelno\\DrawForms\\drawforms\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CEDA71-FA42-485A-BF87-D38F2144E231}|DrawForms\\DrawForms.csproj|solutionrelative:drawforms\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CEDA71-FA42-485A-BF87-D38F2144E231}|DrawForms\\DrawForms.csproj|C:\\Users\\blero\\Not OneDrive\\vizuelno\\DrawForms\\drawforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CEDA71-FA42-485A-BF87-D38F2144E231}|DrawForms\\DrawForms.csproj|solutionrelative:drawforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 188,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\DrawForms\\DrawForms\\Square.cs",
+              "RelativeDocumentMoniker": "DrawForms\\Square.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\DrawForms\\DrawForms\\Square.cs",
+              "RelativeToolTip": "DrawForms\\Square.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T21:55:21.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\DrawForms\\DrawForms\\Form1.cs",
+              "RelativeDocumentMoniker": "DrawForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\DrawForms\\DrawForms\\Form1.cs",
+              "RelativeToolTip": "DrawForms\\Form1.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAA5wDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T21:31:24.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Scene.cs",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\DrawForms\\DrawForms\\Scene.cs",
+              "RelativeDocumentMoniker": "DrawForms\\Scene.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\DrawForms\\DrawForms\\Scene.cs",
+              "RelativeToolTip": "DrawForms\\Scene.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwBcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T21:28:57.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\DrawForms\\DrawForms\\Circle.cs",
+              "RelativeDocumentMoniker": "DrawForms\\Circle.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\DrawForms\\DrawForms\\Circle.cs",
+              "RelativeToolTip": "DrawForms\\Circle.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T21:22:01.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\DrawForms\\DrawForms\\Shape.cs",
+              "RelativeDocumentMoniker": "DrawForms\\Shape.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\DrawForms\\DrawForms\\Shape.cs",
+              "RelativeToolTip": "DrawForms\\Shape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T21:19:41.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\DrawForms\\DrawForms\\Program.cs",
+              "RelativeDocumentMoniker": "DrawForms\\Program.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\DrawForms\\DrawForms\\Program.cs",
+              "RelativeToolTip": "DrawForms\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T21:17:47.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\DrawForms\\DrawForms\\Form1.cs",
+              "RelativeDocumentMoniker": "DrawForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\DrawForms\\DrawForms\\Form1.cs [Design]",
+              "RelativeToolTip": "DrawForms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T13:27:49.406Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

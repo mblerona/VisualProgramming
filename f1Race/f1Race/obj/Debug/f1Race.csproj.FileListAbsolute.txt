@@ -1,0 +1,11 @@
+C:\Users\blero\Not OneDrive\vizuelno\f1Race\f1Race\bin\Debug\f1Race.exe.config
+C:\Users\blero\Not OneDrive\vizuelno\f1Race\f1Race\bin\Debug\f1Race.exe
+C:\Users\blero\Not OneDrive\vizuelno\f1Race\f1Race\bin\Debug\f1Race.pdb
+C:\Users\blero\Not OneDrive\vizuelno\f1Race\f1Race\obj\Debug\f1Race.csproj.AssemblyReference.cache
+C:\Users\blero\Not OneDrive\vizuelno\f1Race\f1Race\obj\Debug\f1Race.Form1.resources
+C:\Users\blero\Not OneDrive\vizuelno\f1Race\f1Race\obj\Debug\f1Race.NewDriverForm.resources
+C:\Users\blero\Not OneDrive\vizuelno\f1Race\f1Race\obj\Debug\f1Race.Properties.Resources.resources
+C:\Users\blero\Not OneDrive\vizuelno\f1Race\f1Race\obj\Debug\f1Race.csproj.GenerateResource.cache
+C:\Users\blero\Not OneDrive\vizuelno\f1Race\f1Race\obj\Debug\f1Race.csproj.CoreCompileInputs.cache
+C:\Users\blero\Not OneDrive\vizuelno\f1Race\f1Race\obj\Debug\f1Race.exe
+C:\Users\blero\Not OneDrive\vizuelno\f1Race\f1Race\obj\Debug\f1Race.pdb

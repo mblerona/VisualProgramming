@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\auditoryExerciseFirsts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C845F9-BF9B-473E-81FE-FB0D92010D57}|auditoryExerciseFirsts\\auditoryExerciseFirsts.csproj|c:\\users\\blero\\not onedrive\\vizuelno\\auditoryexercisefirsts\\auditoryexercisefirsts\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C845F9-BF9B-473E-81FE-FB0D92010D57}|auditoryExerciseFirsts\\auditoryExerciseFirsts.csproj|solutionrelative:auditoryexercisefirsts\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C845F9-BF9B-473E-81FE-FB0D92010D57}|auditoryExerciseFirsts\\auditoryExerciseFirsts.csproj|C:\\Users\\blero\\Not OneDrive\\vizuelno\\auditoryExerciseFirsts\\auditoryexercisefirsts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C845F9-BF9B-473E-81FE-FB0D92010D57}|auditoryExerciseFirsts\\auditoryExerciseFirsts.csproj|solutionrelative:auditoryexercisefirsts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C845F9-BF9B-473E-81FE-FB0D92010D57}|auditoryExerciseFirsts\\auditoryExerciseFirsts.csproj|C:\\Users\\blero\\Not OneDrive\\vizuelno\\auditoryExerciseFirsts\\auditoryexercisefirsts\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3C845F9-BF9B-473E-81FE-FB0D92010D57}|auditoryExerciseFirsts\\auditoryExerciseFirsts.csproj|solutionrelative:auditoryexercisefirsts\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 188,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\auditoryExerciseFirsts\\auditoryExerciseFirsts\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "auditoryExerciseFirsts\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\auditoryExerciseFirsts\\auditoryExerciseFirsts\\Form1.Designer.cs",
+              "RelativeToolTip": "auditoryExerciseFirsts\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T14:58:03.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\auditoryExerciseFirsts\\auditoryExerciseFirsts\\Program.cs",
+              "RelativeDocumentMoniker": "auditoryExerciseFirsts\\Program.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\auditoryExerciseFirsts\\auditoryExerciseFirsts\\Program.cs",
+              "RelativeToolTip": "auditoryExerciseFirsts\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T14:57:56.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\auditoryExerciseFirsts\\auditoryExerciseFirsts\\Form1.cs",
+              "RelativeDocumentMoniker": "auditoryExerciseFirsts\\Form1.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\auditoryExerciseFirsts\\auditoryExerciseFirsts\\Form1.cs [Design]",
+              "RelativeToolTip": "auditoryExerciseFirsts\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T14:56:04.606Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

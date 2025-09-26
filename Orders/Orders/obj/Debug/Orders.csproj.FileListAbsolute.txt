@@ -1,0 +1,11 @@
+C:\Users\blero\Not OneDrive\vizuelno\Orders\Orders\bin\Debug\Orders.exe.config
+C:\Users\blero\Not OneDrive\vizuelno\Orders\Orders\bin\Debug\Orders.exe
+C:\Users\blero\Not OneDrive\vizuelno\Orders\Orders\bin\Debug\Orders.pdb
+C:\Users\blero\Not OneDrive\vizuelno\Orders\Orders\obj\Debug\Orders.csproj.AssemblyReference.cache
+C:\Users\blero\Not OneDrive\vizuelno\Orders\Orders\obj\Debug\Orders.Form1.resources
+C:\Users\blero\Not OneDrive\vizuelno\Orders\Orders\obj\Debug\Orders.NewOrderForm.resources
+C:\Users\blero\Not OneDrive\vizuelno\Orders\Orders\obj\Debug\Orders.Properties.Resources.resources
+C:\Users\blero\Not OneDrive\vizuelno\Orders\Orders\obj\Debug\Orders.csproj.GenerateResource.cache
+C:\Users\blero\Not OneDrive\vizuelno\Orders\Orders\obj\Debug\Orders.csproj.CoreCompileInputs.cache
+C:\Users\blero\Not OneDrive\vizuelno\Orders\Orders\obj\Debug\Orders.exe
+C:\Users\blero\Not OneDrive\vizuelno\Orders\Orders\obj\Debug\Orders.pdb

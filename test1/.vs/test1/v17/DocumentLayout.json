@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\test1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|test1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94154A6-51AD-4E2E-8F76-E6D69DE29D00}|test1\\test1.csproj|c:\\users\\blero\\not onedrive\\vizuelno\\test1\\test1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94154A6-51AD-4E2E-8F76-E6D69DE29D00}|test1\\test1.csproj|solutionrelative:test1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94154A6-51AD-4E2E-8F76-E6D69DE29D00}|test1\\test1.csproj|c:\\users\\blero\\not onedrive\\vizuelno\\test1\\test1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E94154A6-51AD-4E2E-8F76-E6D69DE29D00}|test1\\test1.csproj|solutionrelative:test1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94154A6-51AD-4E2E-8F76-E6D69DE29D00}|test1\\test1.csproj|c:\\users\\blero\\not onedrive\\vizuelno\\test1\\test1\\gameforticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94154A6-51AD-4E2E-8F76-E6D69DE29D00}|test1\\test1.csproj|solutionrelative:test1\\gameforticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94154A6-51AD-4E2E-8F76-E6D69DE29D00}|test1\\test1.csproj|c:\\users\\blero\\not onedrive\\vizuelno\\test1\\test1\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94154A6-51AD-4E2E-8F76-E6D69DE29D00}|test1\\test1.csproj|solutionrelative:test1\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94154A6-51AD-4E2E-8F76-E6D69DE29D00}|test1\\test1.csproj|c:\\users\\blero\\not onedrive\\vizuelno\\test1\\test1\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94154A6-51AD-4E2E-8F76-E6D69DE29D00}|test1\\test1.csproj|solutionrelative:test1\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94154A6-51AD-4E2E-8F76-E6D69DE29D00}|test1\\test1.csproj|c:\\users\\blero\\not onedrive\\vizuelno\\test1\\test1\\teamform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94154A6-51AD-4E2E-8F76-E6D69DE29D00}|test1\\test1.csproj|solutionrelative:test1\\teamform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94154A6-51AD-4E2E-8F76-E6D69DE29D00}|test1\\test1.csproj|c:\\users\\blero\\not onedrive\\vizuelno\\test1\\test1\\teamform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E94154A6-51AD-4E2E-8F76-E6D69DE29D00}|test1\\test1.csproj|solutionrelative:test1\\teamform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94154A6-51AD-4E2E-8F76-E6D69DE29D00}|test1\\test1.csproj|c:\\users\\blero\\not onedrive\\vizuelno\\test1\\test1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 188,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test1",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\test1\\test1\\test1.csproj",
+              "RelativeDocumentMoniker": "test1\\test1.csproj",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\test1\\test1\\test1.csproj*",
+              "RelativeToolTip": "test1\\test1.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-11T18:23:12.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeamForm.cs",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\test1\\test1\\TeamForm.cs",
+              "RelativeDocumentMoniker": "test1\\TeamForm.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\test1\\test1\\TeamForm.cs",
+              "RelativeToolTip": "test1\\TeamForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T21:35:23.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TeamForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\test1\\test1\\TeamForm.cs",
+              "RelativeDocumentMoniker": "test1\\TeamForm.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\test1\\test1\\TeamForm.cs [Design]",
+              "RelativeToolTip": "test1\\TeamForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T21:32:06.094Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameForTicket.cs",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\test1\\test1\\GameForTicket.cs",
+              "RelativeDocumentMoniker": "test1\\GameForTicket.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\test1\\test1\\GameForTicket.cs",
+              "RelativeToolTip": "test1\\GameForTicket.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADgvwsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T21:29:00.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\test1\\test1\\Game.cs",
+              "RelativeDocumentMoniker": "test1\\Game.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\test1\\test1\\Game.cs",
+              "RelativeToolTip": "test1\\Game.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA0wBgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T21:25:29.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\test1\\test1\\Team.cs",
+              "RelativeDocumentMoniker": "test1\\Team.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\test1\\test1\\Team.cs",
+              "RelativeToolTip": "test1\\Team.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADgvxYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T21:23:13.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\test1\\test1\\Form1.cs",
+              "RelativeDocumentMoniker": "test1\\Form1.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\test1\\test1\\Form1.cs",
+              "RelativeToolTip": "test1\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIYAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T20:46:55.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\test1\\test1\\Form1.cs",
+              "RelativeDocumentMoniker": "test1\\Form1.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\test1\\test1\\Form1.cs [Design]",
+              "RelativeToolTip": "test1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T20:41:20.612Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

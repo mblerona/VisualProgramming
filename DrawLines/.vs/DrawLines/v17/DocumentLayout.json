@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\DrawLines\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE08B97-F1F1-4DAF-8D5F-250D8C890BBC}|DrawLines\\DrawLines.csproj|c:\\users\\blero\\not onedrive\\vizuelno\\drawlines\\drawlines\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE08B97-F1F1-4DAF-8D5F-250D8C890BBC}|DrawLines\\DrawLines.csproj|solutionrelative:drawlines\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE08B97-F1F1-4DAF-8D5F-250D8C890BBC}|DrawLines\\DrawLines.csproj|C:\\Users\\blero\\Not OneDrive\\vizuelno\\DrawLines\\drawlines\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3BE08B97-F1F1-4DAF-8D5F-250D8C890BBC}|DrawLines\\DrawLines.csproj|solutionrelative:drawlines\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE08B97-F1F1-4DAF-8D5F-250D8C890BBC}|DrawLines\\DrawLines.csproj|C:\\Users\\blero\\Not OneDrive\\vizuelno\\DrawLines\\drawlines\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE08B97-F1F1-4DAF-8D5F-250D8C890BBC}|DrawLines\\DrawLines.csproj|solutionrelative:drawlines\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE08B97-F1F1-4DAF-8D5F-250D8C890BBC}|DrawLines\\DrawLines.csproj|C:\\Users\\blero\\Not OneDrive\\vizuelno\\DrawLines\\drawlines\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE08B97-F1F1-4DAF-8D5F-250D8C890BBC}|DrawLines\\DrawLines.csproj|solutionrelative:drawlines\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 188,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\DrawLines\\DrawLines\\Form1.cs",
+              "RelativeDocumentMoniker": "DrawLines\\Form1.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\DrawLines\\DrawLines\\Form1.cs",
+              "RelativeToolTip": "DrawLines\\Form1.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAkwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T20:47:03.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Scene.cs",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\DrawLines\\DrawLines\\Scene.cs",
+              "RelativeDocumentMoniker": "DrawLines\\Scene.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\DrawLines\\DrawLines\\Scene.cs",
+              "RelativeToolTip": "DrawLines\\Scene.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T20:39:34.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Line.cs",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\DrawLines\\DrawLines\\Line.cs",
+              "RelativeDocumentMoniker": "DrawLines\\Line.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\DrawLines\\DrawLines\\Line.cs",
+              "RelativeToolTip": "DrawLines\\Line.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T20:35:40.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\DrawLines\\DrawLines\\Form1.cs",
+              "RelativeDocumentMoniker": "DrawLines\\Form1.cs",
+              "ToolTip": "C:\\Users\\blero\\Not OneDrive\\vizuelno\\DrawLines\\DrawLines\\Form1.cs [Design]",
+              "RelativeToolTip": "DrawLines\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T20:21:57.223Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+C:\Users\blero\Not OneDrive\vizuelno\k1_June25\k1_June25\bin\Debug\k1_June25.exe.config
+C:\Users\blero\Not OneDrive\vizuelno\k1_June25\k1_June25\bin\Debug\k1_June25.exe
+C:\Users\blero\Not OneDrive\vizuelno\k1_June25\k1_June25\bin\Debug\k1_June25.pdb
+C:\Users\blero\Not OneDrive\vizuelno\k1_June25\k1_June25\obj\Debug\k1_June25.csproj.AssemblyReference.cache
+C:\Users\blero\Not OneDrive\vizuelno\k1_June25\k1_June25\obj\Debug\k1_June25.Form1.resources
+C:\Users\blero\Not OneDrive\vizuelno\k1_June25\k1_June25\obj\Debug\k1_June25.Properties.Resources.resources
+C:\Users\blero\Not OneDrive\vizuelno\k1_June25\k1_June25\obj\Debug\k1_June25.csproj.GenerateResource.cache
+C:\Users\blero\Not OneDrive\vizuelno\k1_June25\k1_June25\obj\Debug\k1_June25.csproj.CoreCompileInputs.cache
+C:\Users\blero\Not OneDrive\vizuelno\k1_June25\k1_June25\obj\Debug\k1_June25.exe
+C:\Users\blero\Not OneDrive\vizuelno\k1_June25\k1_June25\obj\Debug\k1_June25.pdb
